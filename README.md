@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Michael Your friendly SOC</h1>
 <h3 align="center">SOC ANALYST CYBERSEC</h3>
 
-<img align="right" alt="Coding" width="348" height="353" src="https://i.kinja-img.com/gawker-media/image/upload/t_original/pwl9mwg0qu5vdagwstde.gif">
+<img align="right" alt="Coding" width="348" height="353" src="https://art.pixilart.com/3e3fc9c4c42536a.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fishtank12&label=Profile%20views&color=0e75b6&style=flat" alt="fishtank12" /> </p>
 
@@ -16,6 +18,33 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-naim-62b783253/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://discord.gg/samake12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
+<div style="background-color: #0e75b6; padding: 20px;">
+  <h3 align="left" style="color: white;">Languages:</h3>
+  <p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  </p>
+
+  <h3 align="left" style="color: white;">Databases:</h3>
+  <p align="left">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  </p>
+
+  <h3 align="left" style="color: white;">Tools:</h3>
+  <p align="left">
+    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/favicon.ico" alt="Kali Linux" width="40" height="40"/> </a>
+  </p>
+
+  <h3 align="left" style="color: white;">Certifications:</h3>
+  <div>
+    <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CCNA-4D4D4D?style=for-the-badge&logo=cisco&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-A%2B-0080FF?style=for-the-badge&logo=CompTIA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  </div>
+</div>
+
 
 <h3 align="left">Overall Languages/Tools:</h3>
 <p align="left">
