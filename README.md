@@ -71,7 +71,7 @@
   <!-- <img src="https://github.com/FishTank12/FishTank12/assets/131707073/1550c2d6-55ce-45ea-94cd-51842b738cca" width="2048" height="1153"/> -->
   <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CCNA-4D4D4D?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-A%2B-0080FF?style=for-the-badge&logo=CompTIA&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 
