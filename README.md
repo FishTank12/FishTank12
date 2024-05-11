@@ -1,26 +1,28 @@
 [![MasterHead](https://img.thuthuattinhoc.vn/uploads/2020/05/30/hinh-anh-hacker-bieu-tuong-toi-pham_055316995.jpg)](https://github.com/FishTank12)
 
 
-<h1 align="center">Hi 👋, I'm Michael Your friendly SOC</h1>
-<h3 align="center">SOC ANALYST CYBERSEC</h3>
+<h1 align="center">Hi 👋, I'm Michael Your friendly SOC Analyst </h1>
+
 
 <img align="right" alt="Coding" width="348" height="353" src="https://art.pixilart.com/3e3fc9c4c42536a.gif">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fishtank12&label=Profile%20views&color=0e75b6&style=flat" alt="fishtank12" /> </p>
-<h1>Projects and Profesional Statment</h1>
+<b>Professional Statement:</b>
+- [<a href="https://drive.google.com/file/d/1WSeYBH5L57-TzN9ukYHY1KtWWC0tTnje/view?usp=sharing" target="_blank">Link to Professional Statement</a>]
 
-- 👨‍💻 Check out my Projects portfolio in my repository [https://github.com/FishTank12](https://github.com/FishTank12)
--https://drive.google.com/file/d/1WSeYBH5L57-TzN9ukYHY1KtWWC0tTnje/view?usp=sharing
 
-- 💬 Ask me about **Cyber Security, SOC**
+<h1>👨‍💻 Projects</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-naim-62b783253/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://discord.gg/samake12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
+<b>Cybersecurity Report Assessment Project
+  - [Cyber-Security-Report-Assesment](https://github.com/FishTank12/Cyber-Security-Report-Assesment-Project/blob/main/README.md)
+</b>
+
+
+
+
+
 <div style="background-color: #0e75b6; padding: 20px;">
   <h3 align="left" style="color: white;">Languages:</h3>
   <p align="left">
@@ -84,8 +86,7 @@
 </p>
 
 
-## Projects
-<h3 align="left">Bit N Build Hackathon 2024 India</h3>
+
 
 ## Certifications
 
@@ -97,8 +98,15 @@
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fishtank12&show_icons=true&locale=en&layout=compact" alt="fishtank12" /></p>
+<h2 align="left">🤳 Connect with me:</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fishtank12&show_icons=true&locale=en" alt="fishtank12" /></p>
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />][discord]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fishtank12&" alt="fishtank12" /></p>
+[linkedin]: https://www.linkedin.com/in/michael-naim-62b783253/
+[discord]: https://discord.gg/samake12
+[youtube]: 
+[instagram]: 
+
