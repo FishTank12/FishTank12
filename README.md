@@ -31,25 +31,9 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   </p>
 
-  <h3 align="left" style="color: white;">Databases:</h3>
-  <p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  </p>
 
-  <h3 align="left" style="color: white;">Tools:</h3>
-  <p align="left">
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/favicon.ico" alt="Kali Linux" width="40" height="40"/> </a>
-  </p>
-
-  <h3 align="left" style="color: white;">Certifications:</h3>
-  <div>
-    <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CCNA-4D4D4D?style=for-the-badge&logo=cisco&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-A%2B-0080FF?style=for-the-badge&logo=CompTIA&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  </div>
-</div>
-
+ 
+  
 
 <h3 align="left">Overall Languages/Tools:</h3>
 <p align="left">
@@ -63,7 +47,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
+   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/favicon.ico" alt="Kali Linux" width="40" height="40"/> </a>
   <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
@@ -76,12 +60,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-  
 
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/favicon.ico" alt="Kali Linux" width="40" height="40"/> </a>
-  
 </a>
 </p>
 
