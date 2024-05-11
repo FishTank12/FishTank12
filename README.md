@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Michael Your friendly SOC Analyst </h1>
 
 
-<img align="right" alt="Coding" width="348" height="353" src="https://art.pixilart.com/3e3fc9c4c42536a.gif">
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fishtank12&label=Profile%20views&color=0e75b6&style=flat" alt="fishtank12" /> </p>
