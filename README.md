@@ -64,16 +64,17 @@
 
 
 
-
 ## Certifications
 
 <div>
   <!-- <img src="https://github.com/FishTank12/FishTank12/assets/131707073/1550c2d6-55ce-45ea-94cd-51842b738cca" width="2048" height="1153"/> -->
-  <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <a href="https://learn.microsoft.com/en-us/users/michaelnaim-9326/credentials/c8ca2d81beeb251?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+    <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/-CCNA-4D4D4D?style=for-the-badge&logo=cisco&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
+
 
 <h2 align="left">🤳 Connect with me:</h2>
 
